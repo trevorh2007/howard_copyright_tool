@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-> To declare a copyright with name and message parameters.
+```ruby
+HowardViewTool::Renderer.copyright "Trevor Howard", "All rights reserved"
+```
 
 ## Development
 
